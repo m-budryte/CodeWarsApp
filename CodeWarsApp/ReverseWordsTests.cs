@@ -4,14 +4,10 @@ namespace CodeWarsApp
 
     public class ReverseWordsTests
     {
-        [TestFixture]
-        public class Tests
-        {
-            [Test]
-            public void Example()
+        [Test]
+        public void Test()
             {
                 Assert.AreEqual("sihT si na !elpmaxe", ReverseWordsExercise.ReverseWords("This is an example!"));
             }
         }
-    }
 }

@@ -49,6 +49,8 @@
         <Compile Include="EqualSidesOfArrayTests.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
+        <Compile Include="RemoveSmallestExercise.cs" />
+        <Compile Include="RemoveSmallestTests.cs" />
         <Compile Include="ReverseWords.cs" />
         <Compile Include="ReverseWordsTests.cs" />
     </ItemGroup>
